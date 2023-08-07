@@ -1,4 +1,4 @@
-baseURL = "https://brendanvos.github.io/quartz/"
+baseURL = "https://brendanvos.github.io/TF-EE-quartz-obsidian-vault/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
