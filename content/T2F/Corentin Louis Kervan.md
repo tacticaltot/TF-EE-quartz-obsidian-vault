@@ -4,7 +4,7 @@
 
 > Kervran proposed that [nuclear transmutation](https://en.wikipedia.org/wiki/Nuclear_transmutation) occurs in living organisms, which he called "biological transmutation". He made this claim after doing an experiment with chickens which he believed showed that they were generating calcium in their [[egg shells]] while there was no calcium in their food or soil. He had no known scientific explanation for it. Such transmutations are not possible according to known [physics](https://en.wikipedia.org/wiki/Physics "Physics"), [chemistry](https://en.wikipedia.org/wiki/Chemistry "Chemistry"), and [biology](https://en.wikipedia.org/wiki/Biology "Biology"). Proponents of biological transmutations fall outside mainstream [physics](https://en.wikipedia.org/wiki/Physics "Physics") and are not part of accepted scientific discourse.
 
-## Biological transmutation[]
+## Biological transmutation
 > In the 1960s, Louis Kervran claimed to have conducted experiments and studies demonstrating violations of the [law of conservation of mass](https://en.wikipedia.org/wiki/Law_of_conservation_of_mass "Law of conservation of mass") by biological systems, according to which the amount of each chemical element is preserved in all chemical reactions. He claimed that organisms can transmute potassium into calcium by [nuclear fusion](https://en.wikipedia.org/wiki/Nuclear_fusion "Nuclear fusion") in the course of making an egg shell:
 
   
