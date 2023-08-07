@@ -1,3 +1,7 @@
+---
+title: "Alchemy"
+---
+
 [wiki](https://en.wikipedia.org/wiki/Alchemy "Alchemy")
 
 ### Middle Ages
