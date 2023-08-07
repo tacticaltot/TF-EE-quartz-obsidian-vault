@@ -26,9 +26,9 @@ globalGraph:
     depth: -1 # set to -1 to show full graph
     scale: .5
     repelForce: 2
-    centerForce: 50
+    centerForce: 100
     linkDistance: 1
-    fontSize: 3
+    fontSize: 6
     opacityScale: 5
 
 ### For all graphs ###
