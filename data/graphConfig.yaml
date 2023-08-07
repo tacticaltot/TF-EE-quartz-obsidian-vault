@@ -27,7 +27,7 @@ globalGraph:
     scale: .5
     repelForce: 10
     centerForce: 100
-    linkDistance: 5
+    linkDistance: 20
     fontSize: 1
     opacityScale: 3
 
