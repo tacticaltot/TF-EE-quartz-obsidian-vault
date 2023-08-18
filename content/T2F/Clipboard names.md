@@ -1,0 +1,13 @@
+From [[T2F/Imgs/Official/THE_FINALS_CB2_Stats.png]]
+
+KELSIE E 
+JAMES P J 
+CHARLIE S 
+GIL B 
+DEREK B
+JULIA C 
+JOHN E T
+
+
+
+
