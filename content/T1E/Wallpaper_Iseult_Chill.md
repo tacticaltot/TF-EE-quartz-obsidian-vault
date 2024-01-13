@@ -41,6 +41,7 @@ Then used a "Polar to Rectangular" distort filter
 
 # 7) Protruding pixels
 Counts of pixels between each protruding pixel: 46, 11, 94
+hsv(46, 11%, 94%) is color code for eggshell
 
 # 8) Noisy QR Code
 Directs to https://www.reachthefinals.com/rival-1
